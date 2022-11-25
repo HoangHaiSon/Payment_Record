@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193\\Pay1193.csproj": {}
+    "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193\\Pay1193.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Entity\\Pay1193.Entity.csproj": {
+    "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Entity\\Pay1193.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Entity\\Pay1193.Entity.csproj",
+        "projectUniqueName": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Entity\\Pay1193.Entity.csproj",
         "projectName": "Pay1193.Entity",
-        "projectPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Entity\\Pay1193.Entity.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Entity\\obj\\",
+        "projectPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Entity\\Pay1193.Entity.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,8 +51,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Persistence\\Pay1193.Persistence.csproj": {
+    "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Persistence\\Pay1193.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Persistence\\Pay1193.Persistence.csproj",
+        "projectUniqueName": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Persistence\\Pay1193.Persistence.csproj",
         "projectName": "Pay1193.Persistence",
-        "projectPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Persistence\\Pay1193.Persistence.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Persistence\\obj\\",
+        "projectPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Persistence\\Pay1193.Persistence.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Entity\\Pay1193.Entity.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Entity\\Pay1193.Entity.csproj"
+              "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Entity\\Pay1193.Entity.csproj": {
+                "projectPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Entity\\Pay1193.Entity.csproj"
               }
             }
           }
@@ -132,8 +131,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -142,21 +140,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Services\\Pay1193.Services.csproj": {
+    "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Services\\Pay1193.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Services\\Pay1193.Services.csproj",
+        "projectUniqueName": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Services\\Pay1193.Services.csproj",
         "projectName": "Pay1193.Services",
-        "projectPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Services\\Pay1193.Services.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Services\\obj\\",
+        "projectPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Services\\Pay1193.Services.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -170,11 +168,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Entity\\Pay1193.Entity.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Entity\\Pay1193.Entity.csproj"
+              "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Entity\\Pay1193.Entity.csproj": {
+                "projectPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Entity\\Pay1193.Entity.csproj"
               },
-              "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Persistence\\Pay1193.Persistence.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Persistence\\Pay1193.Persistence.csproj"
+              "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Persistence\\Pay1193.Persistence.csproj": {
+                "projectPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Persistence\\Pay1193.Persistence.csproj"
               }
             }
           }
@@ -200,8 +198,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -210,21 +207,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193\\Pay1193.csproj": {
+    "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193\\Pay1193.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193\\Pay1193.csproj",
+        "projectUniqueName": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193\\Pay1193.csproj",
         "projectName": "Pay1193",
-        "projectPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193\\Pay1193.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193\\obj\\",
+        "projectPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193\\Pay1193.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -238,14 +235,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Entity\\Pay1193.Entity.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Entity\\Pay1193.Entity.csproj"
+              "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Entity\\Pay1193.Entity.csproj": {
+                "projectPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Entity\\Pay1193.Entity.csproj"
               },
-              "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Persistence\\Pay1193.Persistence.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Persistence\\Pay1193.Persistence.csproj"
+              "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Persistence\\Pay1193.Persistence.csproj": {
+                "projectPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Persistence\\Pay1193.Persistence.csproj"
               },
-              "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Services\\Pay1193.Services.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\3119410504_TruongNhatVy_PaymentRecord\\pay1193\\Pay1193.Services\\Pay1193.Services.csproj"
+              "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Services\\Pay1193.Services.csproj": {
+                "projectPath": "E:\\School_stuff\\xampp\\htdocs\\Payment_Record\\Pay1193.Services\\Pay1193.Services.csproj"
               }
             }
           }
@@ -287,8 +284,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -300,7 +296,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

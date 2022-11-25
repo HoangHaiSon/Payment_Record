@@ -46,3 +46,15 @@ C:\Users\HP\Desktop\3119410504_TruongNhatVy_PaymentRecord\pay1193\Pay1193.Entity
 C:\Users\HP\Desktop\3119410504_TruongNhatVy_PaymentRecord\pay1193\Pay1193.Entity\obj\Debug\net6.0\refint\Pay1193.Entity.dll
 C:\Users\HP\Desktop\3119410504_TruongNhatVy_PaymentRecord\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.pdb
 C:\Users\HP\Desktop\3119410504_TruongNhatVy_PaymentRecord\pay1193\Pay1193.Entity\obj\Debug\net6.0\ref\Pay1193.Entity.dll
+E:\School_stuff\xampp\htdocs\Payment_Record\Pay1193.Entity\bin\Debug\net6.0\Pay1193.Entity.deps.json
+E:\School_stuff\xampp\htdocs\Payment_Record\Pay1193.Entity\bin\Debug\net6.0\Pay1193.Entity.dll
+E:\School_stuff\xampp\htdocs\Payment_Record\Pay1193.Entity\bin\Debug\net6.0\Pay1193.Entity.pdb
+E:\School_stuff\xampp\htdocs\Payment_Record\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.csproj.AssemblyReference.cache
+E:\School_stuff\xampp\htdocs\Payment_Record\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\School_stuff\xampp\htdocs\Payment_Record\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.AssemblyInfoInputs.cache
+E:\School_stuff\xampp\htdocs\Payment_Record\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.AssemblyInfo.cs
+E:\School_stuff\xampp\htdocs\Payment_Record\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.csproj.CoreCompileInputs.cache
+E:\School_stuff\xampp\htdocs\Payment_Record\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.dll
+E:\School_stuff\xampp\htdocs\Payment_Record\Pay1193.Entity\obj\Debug\net6.0\refint\Pay1193.Entity.dll
+E:\School_stuff\xampp\htdocs\Payment_Record\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.pdb
+E:\School_stuff\xampp\htdocs\Payment_Record\Pay1193.Entity\obj\Debug\net6.0\ref\Pay1193.Entity.dll
